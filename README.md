@@ -2,7 +2,7 @@
 
 Put static files inside **src/static/**
 
-For anchor links that scroll to same page sections, use **data-id="#section-name"** and add a class of **"scrollTo"**
+For anchor links that scroll to same page sections, use **data-id="#element-id"** and add a class of **"scrollTo"**
 
 ### Development Server:
 
